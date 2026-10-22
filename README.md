@@ -1,13 +1,13 @@
 <h1 align="center">Hi,I'm Kartik Patra</h1>
 <h3 align="center">Unlocking the Potential of This Repository</h3>
 
--  I’m currently learning **C++,JavaScript**
+-  I’m currently learning **ML And DL**
 
 -  Ask me about **Coding or programming,Gaming (video games, board games, etc.),Learning new languages**
 
 -  How to reach me **kartikpatra8191@gmail.com**
 
--  Fun fact **I can hold entire conversations, solve problems, and even make jokes—without ever needing a coffee break! ☕🤖**
+-  Fun fact **I can hold entire conversations, solve problems, and even make jokes—without ever needing a coffee break!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
