@@ -13,6 +13,15 @@
 <p align="left">
 <a href="https://fb.com/kartik patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kartik patra" height="30" width="40" /></a>
 <a href="https://instagram.com/kartikpatra87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartikpatra87" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/kartik-patra-2401a63a8" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="kartik-patra"
+       height="30"
+       width="40" />
+</a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
